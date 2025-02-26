@@ -1,2 +1,6 @@
-# Izzy_Boutique
-Izzy Boutique is the place where you’ll find every product, especially the latest trending shoes.
+# Untitled
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Jean-Baptiste-MUHAYIMANA/pen/GRbbrWj](https://codepen.io/Jean-Baptiste-MUHAYIMANA/pen/GRbbrWj).
+
